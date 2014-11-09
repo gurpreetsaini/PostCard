@@ -13,6 +13,7 @@
 		F33152161A0F406F00D23C49 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F33152151A0F406F00D23C49 /* Images.xcassets */; };
 		F33152191A0F406F00D23C49 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F33152171A0F406F00D23C49 /* LaunchScreen.xib */; };
 		F33152251A0F406F00D23C49 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33152241A0F406F00D23C49 /* PostcardTests.swift */; };
+		F331522F1A0F44DE00D23C49 /* Albert-Einstein-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F331522E1A0F44DE00D23C49 /* Albert-Einstein-2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F331521E1A0F406F00D23C49 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F33152231A0F406F00D23C49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F33152241A0F406F00D23C49 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		F331522E1A0F44DE00D23C49 /* Albert-Einstein-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Albert-Einstein-2.jpg"; path = "../../../../Downloads/Albert-Einstein-2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				F331520E1A0F406F00D23C49 /* AppDelegate.swift */,
 				F33152101A0F406F00D23C49 /* ViewController.swift */,
 				F33152121A0F406F00D23C49 /* Main.storyboard */,
+				F331522E1A0F44DE00D23C49 /* Albert-Einstein-2.jpg */,
 				F33152151A0F406F00D23C49 /* Images.xcassets */,
 				F33152171A0F406F00D23C49 /* LaunchScreen.xib */,
 				F331520C1A0F406F00D23C49 /* Supporting Files */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F33152141A0F406F00D23C49 /* Main.storyboard in Resources */,
+				F331522F1A0F44DE00D23C49 /* Albert-Einstein-2.jpg in Resources */,
 				F33152191A0F406F00D23C49 /* LaunchScreen.xib in Resources */,
 				F33152161A0F406F00D23C49 /* Images.xcassets in Resources */,
 			);
